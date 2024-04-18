@@ -77,7 +77,7 @@ Section Three (Using pySweeper and the BaryonSweeper):
 
 If done properly, the BaryonSweeper should now show some crypto stuff in its Protocol Monitor box.
 Then the PSP should automatically turn on and boot into Aiseirigh! Congratulations!
-Once Aiseirigh has booted, you can disconnect the BaryonSweeper from your PSP. You might want to have the external charges connected to your PSP while it is running Aiseirigh.
+Once Aiseirigh has booted, you can disconnect the BaryonSweeper from your PSP. You might want to have the external charger connected to your PSP while it is running Aiseirigh.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
